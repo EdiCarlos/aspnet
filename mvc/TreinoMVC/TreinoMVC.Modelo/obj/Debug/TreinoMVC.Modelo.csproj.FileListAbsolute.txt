@@ -1,0 +1,5 @@
+G:\sistemas\TreinoMVC\TreinoMVC.Modelo\bin\Debug\TreinoMVC.Modelo.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Modelo\bin\Debug\TreinoMVC.Modelo.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Modelo\obj\Debug\TreinoMVC.Modelo.csprojResolveAssemblyReference.cache
+G:\sistemas\TreinoMVC\TreinoMVC.Modelo\obj\Debug\TreinoMVC.Modelo.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Modelo\obj\Debug\TreinoMVC.Modelo.pdb

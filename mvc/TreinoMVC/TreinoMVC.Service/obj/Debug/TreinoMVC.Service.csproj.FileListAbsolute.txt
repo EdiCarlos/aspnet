@@ -1,0 +1,11 @@
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Service.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Service.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.DAL.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Modelo.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Repositorio.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.DAL.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Modelo.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Service\bin\Debug\TreinoMVC.Repositorio.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Service\obj\Debug\TreinoMVC.Service.csprojResolveAssemblyReference.cache
+G:\sistemas\TreinoMVC\TreinoMVC.Service\obj\Debug\TreinoMVC.Service.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Service\obj\Debug\TreinoMVC.Service.pdb

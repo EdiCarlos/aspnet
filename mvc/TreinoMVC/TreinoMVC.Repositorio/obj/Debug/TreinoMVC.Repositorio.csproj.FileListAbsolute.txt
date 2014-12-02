@@ -1,0 +1,5 @@
+G:\sistemas\TreinoMVC\TreinoMVC.Repositorio\bin\Debug\TreinoMVC.Repositorio.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Repositorio\bin\Debug\TreinoMVC.Repositorio.pdb
+G:\sistemas\TreinoMVC\TreinoMVC.Repositorio\obj\Debug\TreinoMVC.Repositorio.csprojResolveAssemblyReference.cache
+G:\sistemas\TreinoMVC\TreinoMVC.Repositorio\obj\Debug\TreinoMVC.Repositorio.dll
+G:\sistemas\TreinoMVC\TreinoMVC.Repositorio\obj\Debug\TreinoMVC.Repositorio.pdb
